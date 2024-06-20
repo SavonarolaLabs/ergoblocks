@@ -1,6 +1,6 @@
 {
   "name": "ergoblocks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multisignatures with timelocks Blockly components for ErgoScript",
   "main": "index.js",
   "scripts": {
